@@ -11,7 +11,6 @@ I'm an aspiring AI/ML Engineer and Full-Stack Developer focused on creating scal
 * I use Rust BTW!!
 
 **Current Focus:**
-- Building CampusConnect - A full-stack web application
 - Deep diving into Machine Learning and System Design
 - Creating AI-powered applications
 
